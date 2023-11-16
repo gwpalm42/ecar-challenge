@@ -66,12 +66,8 @@ The solution PR should consist of the following:
 
 ### Installation
 
-To build the app, run `docker build -t ecar-app . && docker run -p 8000:8000 ecar-app` from the root directory of this repository.
+Insert your installation instructions here.
 
 ### Execution
 
-To access each answer, build the app and then go to each endpoint.
-1. For unique `action` type count, go to: `http://localhost:8000/1`
-2. For `action` type counts, go to: `http://localhost:8000/2`
-3. For IPv4 and IPv6 counts, go to: `http://localhost:8000/3`
-4. For `dest_ip`s within the 224.0.0.0/8 subnet count, go to: `http://localhost:8000/4`
+Insert your execution instructions here.
