@@ -71,7 +71,7 @@ To build the app, run `docker build -t ecar-app . && docker run -p 8000:8000 eca
 ### Execution
 
 To access each answer, build the app and then go to each endpoint.
-For unique `action` type count, go to: `http://localhost:8000/1`
-For `action` type counts, go to: `http://localhost:8000/2`
-For IPv4 and IPv6 counts, go to: `http://localhost:8000/3`
-For `dest_ip`s within the 224.0.0.0/8 subnet count, go to: `http://localhost:8000/4`
+1. For unique `action` type count, go to: `http://localhost:8000/1`
+2. For `action` type counts, go to: `http://localhost:8000/2`
+3. For IPv4 and IPv6 counts, go to: `http://localhost:8000/3`
+4. For `dest_ip`s within the 224.0.0.0/8 subnet count, go to: `http://localhost:8000/4`
